@@ -2,6 +2,9 @@
  
 # Title: CPU Scheduler GUI
 
+![GUI Screenshot](GUI.png)
+
+
 ## Description:
 This GitHub repository contains the source code for a CPU Scheduler Simulator with a graphical user interface (GUI) implemented in Java Swing. The simulator allows users to visualize various CPU scheduling algorithms such as First Come First Serve (FCFS), Shortest Job First (SJF), Shortest Remaining Time (SRT), Priority (Non-Preemptive and Preemptive), and Round Robin (RR).
 
