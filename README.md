@@ -33,6 +33,7 @@ This project serves as an educational tool for understanding CPU scheduling algo
 - Muneeb Khan
 - Muhammad Hammad Ayub
 - Ravi Shankar
+- Hamayun Shahid
 
 ## Faculty:
 - Asif Ali
