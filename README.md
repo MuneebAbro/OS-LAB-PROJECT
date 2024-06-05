@@ -31,12 +31,3 @@ Select a scheduling algorithm from the dropdown menu.
 Click the "Compute" button to generate the schedule and view results.
 Observe the Gantt chart, average waiting time, and average turnaround time for the selected algorithm.
 This project serves as an educational tool for understanding CPU scheduling algorithms and their impact on system performance. It can be extended further with additional features or enhancements to support more advanced scheduling strategies.
-
-## MEMBERS:
-- Muneeb Khan
-- Muhammad Hammad Ayub
-- Ravi Shankar
-- Hamayun Shahid
-
-## Faculty:
-- Asif Ali
